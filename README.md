@@ -15,6 +15,7 @@ How to Use
 Clone the repository:
 
 git clone https://github.com/abhinrajka/password complexity checker
+
 Navigate to the project directory:
 
 cd password complexity checker
