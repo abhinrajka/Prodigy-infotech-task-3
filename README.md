@@ -1,4 +1,4 @@
-Password Strength Assessment Tool
+Password complexity cheker
 
 Description
 
@@ -14,15 +14,13 @@ Improvement Suggestions: Provides actionable suggestions to enhance the password
 How to Use
 Clone the repository:
 
-git clone https://github.com/abhinrajka/password-strength-assessment-tool.git
-
+git clone https://github.com/abhinrajka/password complexity checker
 Navigate to the project directory:
 
-cd password-strength-assessment-tool
-
+cd password complexity checker
 Run the script:
 
-python password_strength_assessment.py
+python password_complexiy_checker.py
 
 Enter your password when prompted to receive an assessment and suggestions.
 
