@@ -14,7 +14,7 @@ Improvement Suggestions: Provides actionable suggestions to enhance the password
 How to Use
 Clone the repository:
 
-git clone https://github.com/abhinrajka/password complexity checker
+git clone https://github.com/abhinrajka/password_complexity_checker
 
 Navigate to the project directory:
 
